@@ -17,8 +17,8 @@ pip install Cython
 
 git clone https://github.com/noobboss1/FIRE-CRACK
 
-chmod +x *
-
 cd FIRE-CRACK
+
+chmod +x *
 
 python run.py

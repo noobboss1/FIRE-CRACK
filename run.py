@@ -1,2 +1,2 @@
-from noobx import login 
+from N import login 
 login()

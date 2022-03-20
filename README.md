@@ -1,6 +1,6 @@
 # FIRE-CRACK
 
-# CREDIT BY HUNTER BOY ALAMIN KHAN
+
 pkg update && pkg upgrade
 
 pkg install python
